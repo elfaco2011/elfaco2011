@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Khalid
 
-<!--
-**elfaco2011/elfaco2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation Engineer specialized in Python bots and API integrations.
 
-Here are some ideas to get you started:
+I build **practical automation tools** for businesses to save time, reduce manual work, and streamline data workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I build
+- Google Sheets automation & integrations
+- CSV data cleaning and processing pipelines
+- PDF and invoice generators
+- Lead qualification & scoring tools
+- Slack notifications & workflow automations
+
+### 🛠 Tech Stack
+- Python
+- REST APIs
+- Google Sheets API
+- Slack API
+- CSV / PDF processing
+
+📦 Ready-made automation packs available on Gumroad:  
+👉 https://khalidelfakir.gumroad.com
+📫 Contact: elfaco11@protonmail.com
