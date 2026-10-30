@@ -10,7 +10,7 @@ production logs and Excel files into reports and dashboards people on the shop f
 - Cleaning and merging production data (CSV, Excel, machine logs)
 - Automated daily/weekly reports (Excel, PDF)
 - Streamlit dashboards for downtime, cycle times and consumption
-- Workflow automation with Google Sheets, Slack and REST APIs
+- Small automation tools: CSV processing, PDF and invoice generation
 
 ## Featured projects
 | Project | What it does |
@@ -18,7 +18,6 @@ production logs and Excel files into reports and dashboards people on the shop f
 | [csv-cleaner-pro](https://github.com/elfaco2011/csv-cleaner-pro) | Cleans and normalises messy CSV datasets |
 | [pdf-report-generator-bot](https://github.com/elfaco2011/pdf-report-generator-bot) | Generates PDF reports from structured data |
 | [invoice-generator-bot](https://github.com/elfaco2011/invoice-generator-bot) | Automated invoice generation and export |
-| [sheets-slack-notification-bot](https://github.com/elfaco2011/sheets-slack-notification-bot) | Slack alerts driven by Google Sheets data |
 
 ## Stack
 Python · pandas · Streamlit · FastAPI · REST APIs · Git
@@ -27,4 +26,4 @@ Python · pandas · Streamlit · FastAPI · REST APIs · Git
 Italian (native) · English · French · Spanish
 
 ## Contact
-Freelance work via Upwork: https://www.upwork.com/freelancers/~0113002181207316dd· elfaco11@protonmail.com
+Freelance work via Upwork: https://www.upwork.com/freelancers/~0113002181207316dd · elfaco11@protonmail.com
