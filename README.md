@@ -15,6 +15,7 @@ production logs and Excel files into reports and dashboards people on the shop f
 ## Featured projects
 | Project | What it does |
 |---|---|
+| [production-downtime-report](https://github.com/elfaco2011/production-downtime-report) | Downtime Pareto, OEE and weekly PDF reports from machine-event exports |
 | [csv-cleaner-pro](https://github.com/elfaco2011/csv-cleaner-pro) | Cleans and normalises messy CSV datasets |
 | [pdf-report-generator-bot](https://github.com/elfaco2011/pdf-report-generator-bot) | Generates PDF reports from structured data |
 | [invoice-generator-bot](https://github.com/elfaco2011/invoice-generator-bot) | Automated invoice generation and export |
